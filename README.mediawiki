@@ -1,0 +1,6 @@
+= Music Generator =
+
+Use Markov Chains to generate music.
+
+Author: Andrew Pak, Chengying Wang, Peng Zhao
+
