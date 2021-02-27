@@ -45,3 +45,5 @@ If you are interested, the code that downloaded these files is in:
 scrape\
 </pre>
 But you will need to install [http://lxml.de/ lxml] and [http://scrapy.org/ scrapy] to run it.
+
+highestPlausibilityKeys generates the sequence of keys and notes given a transition matrix, and is the file used to create our musical output. transitionMatrix is our program that generates our transition matrix based on markov chaining, determining the most likely sequence of keys. processMidi converts a midi input into a sequence of keys and variables readable by our other program functions.
